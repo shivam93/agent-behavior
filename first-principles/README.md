@@ -135,7 +135,7 @@ first-principles/
 
 **Shivam Bhatnagar** — 12 years designing enterprise AI. Now building the vocabulary for agent behavior design: the discipline that didn't exist when I needed it.
 
-[LinkedIn](https://www.linkedin.com/in/shivambhatnagar/) · [GitHub](https://github.com/shivam93/agent-behavior)
+[LinkedIn](https://www.linkedin.com/in/shivam-bhatnagar-design/) · [X](https://x.com/MrShivamB) · [GitHub](https://github.com/shivam93/agent-behavior)
 
 ---
 

@@ -50,13 +50,13 @@ Behavioral design specs. The pattern, the mechanism, the edge cases, and what br
 
 ## Work With Me
 
-If your team is building an AI product and the behavior isn't specified — when it answers, when it withholds, how it handles failure — [reach out on LinkedIn](https://www.linkedin.com/in/shivambhatnagar/).
+If your team is building an AI product and the behavior isn't specified — when it answers, when it withholds, how it handles failure — [reach out on LinkedIn](https://www.linkedin.com/in/shivam-bhatnagar-design/).
 
 ---
 
 **Shivam Bhatnagar** — 12 years designing enterprise AI. Now building the vocabulary for agent behavior design: the discipline that didn't exist when I needed it.
 
-[LinkedIn](https://www.linkedin.com/in/shivambhatnagar/) · [GitHub](https://github.com/shivam93)
+[LinkedIn](https://www.linkedin.com/in/shivam-bhatnagar-design/) · [X](https://x.com/MrShivamB) · [GitHub](https://github.com/shivam93)
 
 ---
 
