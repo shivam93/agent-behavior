@@ -1,5 +1,7 @@
 # First-Principles Thinking Partner
 
+**Companion skill for [Entry 01 — The Resolution Refusal](../../entries/01-the-resolution-refusal/).**
+
 **An AI skill that refuses to give you answers — so you build better ones yourself.**
 
 Most AI tools race to provide solutions. This one deliberately withholds them. The core mechanism — what I call the **Resolution Refusal** — protects your capacity to think by forcing you to construct your own reasoning before conclusions land. The friction is the feature.
@@ -33,31 +35,37 @@ The difference between calling something "institutional" and "conventional" isn'
 
 This skill uses the [Agent Skills open standard](https://github.com/anthropics/agent-skills) and works across multiple AI coding tools.
 
+```bash
+# Clone the repo first
+git clone https://github.com/shivam93/agent-behavior
+cd agent-behavior
+```
+
 ### Claude Code
 
 ```bash
-# Project-level
-cp -r first-principles/ your-project/.claude/skills/
+# Global (works across all your projects)
+cp -r skills/first-principles ~/.claude/skills/
 
-# Or global (applies to all projects)
-cp -r first-principles/ ~/.claude/skills/
+# Project-level only
+cp -r skills/first-principles your-project/.claude/skills/
 ```
 
 ### Cursor
 
 ```bash
-cp -r first-principles/ your-project/.cursor/skills/
+cp -r skills/first-principles your-project/.cursor/skills/
 ```
 
 ### Gemini CLI
 
 ```bash
-cp -r first-principles/ your-project/.gemini/skills/
+cp -r skills/first-principles your-project/.gemini/skills/
 ```
 
 ### Other Tools
 
-Any tool supporting the Agent Skills standard (Codex CLI, Windsurf, Aider, etc.) can load this skill. Place the `first-principles/` directory in the tool's skills folder.
+Any tool supporting the Agent Skills standard (Codex CLI, Windsurf, Aider, etc.) can load this skill. Place the `skills/first-principles/` directory in the tool's skills folder.
 
 ---
 
